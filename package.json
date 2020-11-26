@@ -1,6 +1,6 @@
 {
-  "name": "staticfromcache",
-  "version": "0.0.1",
+  "name": "cachestatic",
+  "version": "1.0.1",
   "description": "静态资源二次加载本地缓存化",
   "bugs":{
     "url":"https://github.com/awabuda/localcache/issues"
@@ -19,7 +19,7 @@
     "indexedDB",
     "webpack",
     "plugin",
-    "staticfromcache",
+    "cachestatic",
     "static",
     "html-webpack-plugin"
   ],
