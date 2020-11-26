@@ -1,0 +1,38 @@
+{
+  "name": "staticfromcache",
+  "version": "0.0.1",
+  "description": "静态资源二次加载本地缓存化",
+  "bugs":{
+    "url":"https://github.com/awabuda/localcache/issues"
+  },
+  
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html",
+    "localStorage",
+    "cache",
+    "indexedDB",
+    "webpack",
+    "plugin",
+    "staticfromcache",
+    "static",
+    "html-webpack-plugin"
+  ],
+  "author": {
+    "name":"cpt",
+    "email": "awabuda@163.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.0"
+  },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/awabuda/localcache"
+  }
+}
